@@ -1,5 +1,5 @@
 # we-first-project
-First Weekend Website
+First Weekend Website. The Project is about us getting our feet wet into the Less pre-processor. The code represents our coding session where we learnt how to run CSS using the gulp automator. We also learnt Less commands that are really helpful in writing efficient and more intuitive CSS code.
 
 ### Reference
 
