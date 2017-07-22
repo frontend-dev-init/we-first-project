@@ -18,4 +18,4 @@ These commands build [Less] code into CSS code. Open [index.html](index.html) fi
 
 ### Authors
 [Kapil Gupta](https://github.com/daemonslayer)
-[Uğur Kurt](https://github.com/UgurKurt)
+<br>[Uğur Kurt](https://github.com/UgurKurt)
